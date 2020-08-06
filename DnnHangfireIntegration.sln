@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnnHangfireIntegration", "DnnHangfireIntegration.csproj", "{92BD384D-ECE5-4612-84BF-BE5ED5A33B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92BD384D-ECE5-4612-84BF-BE5ED5A33B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BD384D-ECE5-4612-84BF-BE5ED5A33B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BD384D-ECE5-4612-84BF-BE5ED5A33B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BD384D-ECE5-4612-84BF-BE5ED5A33B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A673EECC-B4A1-43D2-AAD7-238E498447D2}
+	EndGlobalSection
+EndGlobal
